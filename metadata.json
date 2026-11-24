@@ -1,0 +1,6 @@
+{
+  "name": "Heritage Map — Căn cứ Nửa Lon",
+  "description": "Bản đồ số tương tác di tích Căn cứ Quân ủy và Bộ Tư lệnh Miền Đông Nam Bộ (Căn cứ Nửa Lon) – Dự án STEM/STEAM Nhóm 12D3, Trường THPT Cẩm Mỹ (2026–2027).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
